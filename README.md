@@ -1,6 +1,6 @@
 # KINGAIW - The King of the AI World
 
-![KINGAIW Logo](https://kingaiw.com/logo.png)  
+![KINGAIW Logo]([https://kingaiw.com/logo.png](https://kingaiw.com/wp-content/uploads/2025/02/1-Photoroom-_2_-1.webp))  
 🚀 **Official GitHub for The King of the AI World (KINGAIW) Token**  
 
 ## **About KINGAIW**
