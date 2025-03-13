@@ -64,13 +64,13 @@
 
 ---
 
-## **📢 Connect with Us**
-🌐 **Website:** [kingaiw.com](https://kingaiw.com/)  
-🐦 **X:** [@mhaweb3](https://twitter.com/mhaweb3)  
-📘 **Facebook:** [kingaiw] ([https://www.facebook.com/profile.php?id=61573654056552](url)) <br> 
-📢 **Telegram:** [t.me/KINGAIW](https://t.me/KINGAIW)  
-🐘 **Mastodon:** [@kingaiw](https://mastodon.social/@kingaiw)  
-📂 **GitHub:** [github.com/KINGAIW](https://github.com/KINGAIW)  
+📢 Connect with Us
+🌐 Website: kingaiw.com
+🐦 X (Twitter): @mhaweb3
+📘 Facebook: KINGAIW
+📢 Telegram: t.me/KINGAIW
+🐘 Mastodon: @kingaiw
+📂 GitHub: github.com/KINGAIW
 
-🚀 **Join the discussion. Shape the future of AI & blockchain with KINGAIW!**
+🚀 Join the discussion. Shape the future of AI & blockchain with KINGAIW!
 
