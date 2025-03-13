@@ -64,13 +64,13 @@
 
 ---
 
-📢 Connect with Us
-🌐 Website: kingaiw.com
-🐦 X (Twitter): @mhaweb3
-📘 Facebook: KINGAIW
-📢 Telegram: t.me/KINGAIW
-🐘 Mastodon: @kingaiw
-📂 GitHub: github.com/KINGAIW
-
+📢 Connect with Us <br>
+🌐 Website: kingaiw.com<br>
+🐦 X (Twitter): @mhaweb3<br>
+📘 Facebook: KINGAIW<br>
+📢 Telegram: t.me/KINGAIW<br>
+🐘 Mastodon: @kingaiw<br>
+📂 GitHub: github.com/KINGAIW<br>
+<br>
 🚀 Join the discussion. Shape the future of AI & blockchain with KINGAIW!
 
