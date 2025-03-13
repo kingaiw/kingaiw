@@ -66,7 +66,8 @@
 
 ## **📢 Connect with Us**
 🌐 **Website:** [kingaiw.com](https://kingaiw.com/)  
-🐦 **X (Twitter):** [@mhaweb3](https://twitter.com/mhaweb3)  
+🐦 **X:** [@mhaweb3](https://twitter.com/mhaweb3)  
+🐦 **Facebook:** [https://twitter.com/mhaweb3](https://www.facebook.com/profile.php?id=61573654056552))  
 📢 **Telegram:** [t.me/KINGAIW](https://t.me/KINGAIW)  
 🐘 **Mastodon:** [@kingaiw](https://mastodon.social/@kingaiw)  
 📂 **GitHub:** [github.com/KINGAIW](https://github.com/KINGAIW)  
