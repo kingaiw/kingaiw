@@ -31,7 +31,7 @@
 ### **Phase 1: Foundation & Market Entry**
 ✅ Token Launch & Uniswap Listing  
 ✅ Website & 5-Year AI Content Plan  
-✅ Community Growth (X, Facebook, Telegram, Mastodon)  
+✅ Community Growth (X, Telegram, Mastodon)  
 ✅ GitHub Repository for Transparency  
 ✅ Smart Contract Audit  
 
